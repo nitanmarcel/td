@@ -185,7 +185,7 @@ See [example/python/tdjson_example.py](https://github.com/tdlib/td/tree/master/e
 
 <a name="get-help"></a>
 ## Get Help
-You can open a new issue or you can message us on our Telegram group: [@tdlib](https://t.me/tdlibchat)
+You can open a new issue or you can message us on our Telegram group: [@tdlibchat](https://t.me/tdlibchat)
 
 <a name="license"></a>
 ## License
